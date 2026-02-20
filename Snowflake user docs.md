@@ -3,5 +3,5 @@
 ![Gta](https://cdn.mos.cms.futurecdn.net/xKDjdfeeVakza67tMJCDYN-1200-80.jpg.webp)
 
 <!-- In parent.md, linking to a heading "Section Name" in child.md -->
-[Link to section in child file](./child.md#section-name)
+[GTA](https://www.allot.com/partner/aws/)
 
